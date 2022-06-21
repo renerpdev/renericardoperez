@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 2rhop</h1>
-<h3 align="center">A passionate developer who loves the design as much as the code. Always trying to learn new things if those making the developer's life easier.</h3>
+<h3 align="center">A passionate developer who loves the design as much as the code. Always trying to learn new things, specially if those one make the developer's life easier.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2rhop&label=Profile%20views&color=0e75b6&style=flat" alt="2rhop" /> </p>
 

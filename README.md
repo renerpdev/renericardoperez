@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm 2rhop</h1>
 <h3 align="center">A passionate developer who loves the design as much as the code. Always trying to learn new things, specially if those one make the developer's life easier.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2rhop&label=Profile%20views&color=0e75b6&style=flat" alt="2rhop" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=renericardoperez&label=Profile%20views&color=0e75b6&style=flat" alt="renericardoperez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2rhop" alt="2rhop" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renericardoperez" alt="renericardoperez" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/2rhop_official" target="blank"><img src="https://img.shields.io/twitter/follow/2rhop_official?logo=twitter&style=for-the-badge" alt="2rhop_official" /></a> </p>
 
@@ -34,8 +34,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/2rhop"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="2rhop" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2rhop&show_icons=true&locale=en&layout=compact" alt="2rhop" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renericardoperez&show_icons=true&locale=en&layout=compact" alt="renericardoperez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2rhop&show_icons=true&locale=en" alt="2rhop" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renericardoperez&show_icons=true&locale=en" alt="renericardoperez" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2rhop&" alt="2rhop" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renericardoperez&" alt="renericardoperez" /></p>
